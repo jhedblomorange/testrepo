@@ -1,1 +1,1 @@
-print("John Doe Jr - Uppsala")
+print("John Doe Jr")
