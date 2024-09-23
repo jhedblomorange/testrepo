@@ -1,1 +1,1 @@
-print("John Doe Jr 20240923")
+print("John Doe Jr")
